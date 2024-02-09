@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurfWeb3
 - 👀 I’m interested in Web 3 and decentralization. One of my websites, SurfWeb3.com, is dedicated to educating the public about Web 3 
 - 🌱 I’m currently learning blockchain development and business
-- 💞️ I’m looking to collaborate on all kind of projects!
+- 💞️ I’m looking to collaborate on all kinds of projects!
 - 📫 How to reach me: on my Discord server, SurfWeb3.com (/SurfWeb3.com#7143)
 
 <!---
